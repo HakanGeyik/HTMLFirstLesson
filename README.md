@@ -1,5 +1,3 @@
 # HTMLFirstLesson
 
-This is a repository for HTML Lesson
-
-Hello
+This is a repository for the first HTML Lesson
